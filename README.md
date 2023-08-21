@@ -4,7 +4,11 @@ A Python snippet utilizing the LEGO EV3 infrared sensor, the LEGO EV3 Brick and 
 
 This example uses the EV3 infrared sensor to measure the distance of an object in front of the sensor. This example will move both motors forward until something is blocking it's path.
 
-The [Documentation for Pybricks](https://docs.pybricks.com/en/latest/ev3devices.html) is really helpful.
+***
+
+## Repo Resources
+
+- [Pybricks - Documentation](https://docs.pybricks.com/en/latest/ev3devices.html)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
